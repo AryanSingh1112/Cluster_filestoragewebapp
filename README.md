@@ -1,25 +1,50 @@
 
 Webapp Deployment Link : https://cluster-filesholder-webapp.vercel.app
 
-User Authentication with Appwrite: Implement signup, login, and logout functionality using Appwrite's authentication system.
+🚀 CLUSTER - Files Cluster Webapp
+🔐 User Authentication
 
-👉 FIle Uploads: Effortlessly upload a variety of file types, including documents, images, videos, and audio, ensuring all your important data.
+Secure signup, login, and logout using Appwrite’s authentication system.
 
-👉 View and Manage Files: Users can browse through their uploaded files stored in Appwrite storage, view on a new tab, rename file or delete.
+📂 File Uploads
 
-👉 Download Files: Users can download their uploaded files giving them instant access to essential documents.
+Effortlessly upload documents, images, videos, and audio files.
 
-👉 File Sharing: Users can easily share their uploaded files with others, enabling collaboration and easy access to important content.
+🗂 View & Manage Files
 
-👉 Dashboard: Gain insights at a glance with a dynamic dashboard that showcases total and consumed storage, recent uploads, and a summary of files grouped by type.
+1. Browse uploaded files in Appwrite storage.
+2. Open files in a new tab.
+3. Rename or delete files with ease.
 
-👉 Global Search: Users can quickly find files and shared content across the platform with a robust global search feature.
+⬇ Download Files
 
-👉 Sorting Options: Organize files efficiently by sorting them by date, name, or size, making file management a breeze.
+Instantly download uploaded files for quick access.
 
-👉 Modern Responsive Design: A fresh and minimalist UI that emphasizes usability, ensuring a clean aesthetic across all devices.
+🔗 File Sharing
 
-and many more, including the latest React 19, Next.js 15 and Appwrite features alongside code architecture and reusability
+Seamlessly share files with others for easy collaboration.
+
+📊 Dynamic Dashboard
+
+1. Get insights into total and consumed storage.
+2. View recent uploads and a summary of files categorized by type.
+
+🔎 Global Search
+
+Quickly find files and shared content across the platform.
+↕ Sorting Options
+
+Organize files by date, name, or size for better management.
+
+🎨 Modern Responsive Design
+
+A fresh, minimalist UI ensuring seamless usability across all devices.
+
+🛠 Built with the Latest Tech
+
+1. Powered by React 19, Next.js 15, and Appwrite.
+2. Improved code architecture for reusability and scalability.
+
 
 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
@@ -54,9 +79,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
